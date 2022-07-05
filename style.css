@@ -1,0 +1,112 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+p {
+    font-size: 20px;
+}
+
+.top-section {
+    margin: 5%;
+    padding: 10px;
+    display: flex;
+}
+
+.orange-color {
+    color: orangered;
+}
+
+.ash {
+    color: aquamarine;
+}
+
+.white {
+    color: bisque;
+
+}
+
+.link-box {
+    text-decoration: none;
+    color: white;
+    background-color: brown;
+    padding: 10px;
+    border-radius: 5px;
+
+}
+
+.middle-section {
+
+    padding: 10px;
+    display: flex;
+    background-image: url(images/shapes/7.png);
+
+}
+
+.position {
+    padding: 20px;
+}
+
+.middle-section img {
+    width: 100%;
+}
+
+.last-section {
+    margin: 10%;
+}
+
+.centre-align {
+    text-align: center;
+}
+
+.recipie-box {
+    box-shadow: 5px 5px 10px;
+    padding: 40px;
+    margin: 20px;
+    border-radius: 10px;
+
+}
+
+.recipie-box img {
+    width: 100%;
+}
+
+.recipie-display {
+    display: flex;
+
+}
+
+.followers-section {
+    display: flex;
+
+}
+
+.followers-box {
+    box-shadow: 5px 5px 10px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+
+}
+
+.subcribes {
+    margin: 5px;
+    padding-left: 12%;
+    padding-bottom: 0;
+
+
+}
+
+.footer-section {
+    text-align: center;
+    background-color: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
